@@ -1,0 +1,15 @@
+Package: ru.rj.rr
+Name: Remove Russian Language
+Depends: mobilesubstrate, com.randy420.tools (>=1.7)
+Replaces: com.randy420.rr
+Architecture: iphoneos-arm
+Description: Remove Russian and or Turkish language project files from tweaks using terminal commands- 
+ • rr 
+ OR 
+ • rr -a
+Depiction: https://Randy-420.GitHub.io/depic/rr.html
+Homepage: https://theemeraldisle.family
+Maintainer: Randy420
+Author: Randy420 <randy.skinner@hotmail.com>
+Section: Utilities
+Version: 0.1.6
