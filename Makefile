@@ -1,6 +1,5 @@
 DEBUG=0
 FINALPACKAGE=1
-export TARGET:=iphone:clang:13.5:7.0
 
 include $(THEOS)/makefiles/common.mk
 
